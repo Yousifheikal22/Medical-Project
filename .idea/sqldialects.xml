@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/admin/admins/ViewAdmins.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/admins/add.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/admins/edit.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/cities/addCity.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/cities/delete.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/cities/edit.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/cities/viewCities.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/inc/delete.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/login.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/orders/viewOrders.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/services/addServices.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/services/edit.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/admin/services/viewServices.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/order/order.php" dialect="GenericSQL" />
+  </component>
+</project>
